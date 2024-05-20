@@ -14,7 +14,7 @@
 
 ## Try out WebNN
 
-- Chromium ([Chrome Canary](https://www.google.com/chrome/canary/), [Edge Canary](https://www.microsoftedgeinsider.com/download/canary)): Go to `about://flags#web-machine-learning-neural-network` and enable the "Enables WebNN API" flag
+- Chromium ([Google Chrome Dev](https://www.google.com/chrome/dev/), [ Microsoft Edge Dev](hhttps://www.microsoft.com/edge/download/insider)): Go to `about://flags#web-machine-learning-neural-network` and enable the "Enables WebNN API" flag
 - WebNN Installation Guide from [W3C WebNN Samples](https://github.com/webmachinelearning/webnn-samples/#webnn-installation-guides), [WebNN Developer Preview Demos](https://xxxxxxxxx.github.io/webnn-developer-preview/install.html) or [Intel AI PC Development](https://www.intel.com/content/www/us/en/developer/topic-technology/ai-pc/webnn.html)
 
 ## Contents
@@ -67,6 +67,7 @@
 - [Stable Diffusion 1.5](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/stable-diffusion-1.5/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/stable-diffusion-1.5)) - Text Encoder, UNet, VAE, Safety Checker
 - [Stable Diffusion Turbo](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/sd-turbo)) - Text Encoder, UNet, VAE, Safety Checker
 - [Whisper Base](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/whisper-base)) - Audio, recording, and real time Whisper transcription
+- [WebNN API Demo for Golang](https://me.sansmoraxz.com/webnngo-demo/) ([source](https://github.com/sansmoraxz/webnngo-demo)) - by Souyama
 
 ### Demos on NPU
 
