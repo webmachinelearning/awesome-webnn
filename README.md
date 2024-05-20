@@ -24,19 +24,21 @@
 - [Browser Support](#browser-support)
 - [Community](#community)
 - [Demos](#-demos)
-  - [Demos on NPU](#-demos-on-npu)
+  - [Demos on CPU or GPU](#demos-on-cpu-or-gpu)
+  - [Demos on NPU](#demos-on-npu)
 - [Frameworks](#frameworks)
 - [Presentations](#presentations)
 - [Samples](#-samples)
-  - [Samples on NPU](#-samples-on-npu)
+  - [Samples on CPU or GPU](#samples-on-cpu-or-gpu)
+  - [Samples on NPU](#samples-on-npu)
 - [Spec](#spec)
 - [Testimonials](#testimonials)
 - [Tutorials](#tutorials)
+  - [Hugging Face Transformers](#hugging-face-transformers)
+  - [Google JS ML Framework - WebNN](#google-js-ml-framework)
   - [MDN Docs](#mdn-docs)
+  - [Microsoft ONNX Runtime Web](#microsoft-onnx-runtime-web)
   - [WebNN API](#webnn-api)
-  - [Google JS ML Framework](#based-on-google-js-ml-framework)
-  - [ONNX Runtime Web](#based-on-onnx-runtime-web)
-  - [Transformers.js](#based-on-transformersjs)
 - [Videos](#videos)
 - [Websites](#websites)
 
@@ -61,16 +63,18 @@
 
 ## 💡 Demos
 
+### Demos on CPU or GPU
+
 - [Image Classification](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/image-classification/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/image-classification)) - EfficientNet Lite4, MobileNet V2, ResNet50
 - [Segment Anything](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/segment-anything/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/segment-anything))
-- [Stable Diffusion 1.5](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/stable-diffusion-1.5/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/stable-diffusion-1.5))
-- [Stable Diffusion Turbo](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/sd-turbo))
-- [Whisper Base](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/whisper-base))
+- [Stable Diffusion 1.5](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/stable-diffusion-1.5/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/stable-diffusion-1.5)) - Text Encoder, UNet, VAE, Safety Checker
+- [Stable Diffusion Turbo](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/sd-turbo)) - Text Encoder, UNet, VAE, Safety Checker
+- [Whisper Base](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/whisper-base)) - audio, recording, and real time Whisper transcription
 
-### 💡 Demos on NPU
+### Demos on NPU
 
-- [Image Classification](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/image-classification/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/image-classification)) - EfficientNet Lite4, MobileNet v2, ResNet50
-- [Whisper Base](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/whisper-base))
+- [Image Classification](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/image-classification/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/image-classification)) - EfficientNet Lite4, MobileNet v2, ResNet50 (coming soon)
+- [Whisper Base](https://xxxxxxxxx.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/xxxxxxxxx/webnn-developer-preview/tree/demos-v1.01/demos/whisper-base)) - audio, recording, and real time Whisper transcription (coming soon)
 
 ## Frameworks
 
@@ -85,6 +89,8 @@
 
 ## 💡 Samples
 
+### Samples on CPU or GPU
+
 - [WebNN Samples](https://webmachinelearning.github.io/webnn-samples-intro/)([source](https://github.com/webmachinelearning/webnn-samples))
 - [Code Editor](https://webmachinelearning.github.io/webnn-samples/code/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/code))
 - [Face Recognition](https://webmachinelearning.github.io/webnn-samples/face_recognition/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/face_recognition)) - FaceNet, SSD MobileNet V2 Face
@@ -97,10 +103,10 @@
 - [Semantic Segmentation](https://webmachinelearning.github.io/webnn-samples/semantic_segmentation/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/semantic_segmentation)) - DeepLab v3
 - [Style Transfer](https://webmachinelearning.github.io/webnn-samples/style_transfer/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/style_transfer)) - Fast Style Transfer
 
-### 💡 Samples on NPU
+### Samples on NPU
 
-- [Image Classification](https://webmachinelearning.github.io/webnn-samples/image_classification/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/image_classification)) - EfficientNet Lite 4, MobileNet v2, ResNet 50 v1
-- [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - SSD MobileNet v1
+- [Image Classification](https://webmachinelearning.github.io/webnn-samples/image_classification/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/image_classification)) - EfficientNet Lite 4, MobileNet v2, ResNet 50 v1 (coming soon)
+- [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - SSD MobileNet v1 (coming soon)
 
 ## Spec
 
@@ -110,26 +116,27 @@
 
 ## Tutorials
 
+## Hugging Face Transformers
+
+- To do
+
+### Google JS ML Framework
+
+- To do
+
 ### MDN Docs
 
 - [WebNN](https://developer.mozilla.org/en-US/search?q=webnn) - To do
 
-### WebNN API
-
-- [Build Your First Graph with WebNN API](https://webmachinelearning.github.io/get-started/2021/03/15/build-your-first-graph-with-webnn-api.html)
-- [Noise Suppression Net 2 (NSNet2)](https://webmachinelearning.github.io/get-started/2021/03/17/noise-suppression-net-v2.html)
-
-### Based on Google JS ML Framework
-
-- To do
-
-### Based on ONNX Runtime Web
+### Microsoft ONNX Runtime Web
 
 - [WebNN Execution Provider](https://onnxruntime.ai/docs/tutorials/web/env-flags-and-session-options.html)
 
-## Based on Transformers.js
+### WebNN API
 
-- To do
+- [Introduction to Web Neural Network API (WebNN)](https://webmachinelearning.github.io/get-started/2024/05/16/introduction-to-web-neural-network-api.html) by Paul Cooper
+- [Build Your First Graph with WebNN API](https://webmachinelearning.github.io/get-started/2021/03/15/build-your-first-graph-with-webnn-api.html)
+- [Noise Suppression Net 2 (NSNet2)](https://webmachinelearning.github.io/get-started/2021/03/17/noise-suppression-net-v2.html)
 
 ## Videos
 
