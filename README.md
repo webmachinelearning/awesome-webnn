@@ -14,7 +14,7 @@
 
 ## Try out WebNN
 
-- Chromium ([Google Chrome Dev](https://www.google.com/chrome/dev/), [ Microsoft Edge Dev](hhttps://www.microsoft.com/edge/download/insider)): Go to `about://flags#web-machine-learning-neural-network` and enable the "Enables WebNN API" flag
+- Go to `about://flags#web-machine-learning-neural-network` and enable the "Enables WebNN API" flag with [Google Chrome Dev](https://www.google.com/chrome/dev/) or [Microsoft Edge Dev](https://www.microsoft.com/edge/download/insider)
 - WebNN Installation Guide from [W3C WebNN Samples](https://github.com/webmachinelearning/webnn-samples/#webnn-installation-guides), [WebNN Developer Preview Demos](https://xxxxxxxxx.github.io/webnn-developer-preview/install.html) or [Intel AI PC Development](https://www.intel.com/content/www/us/en/developer/topic-technology/ai-pc/webnn.html)
 
 ## Contents
