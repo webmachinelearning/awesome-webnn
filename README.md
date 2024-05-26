@@ -47,6 +47,7 @@
 ## Blogs
 
 - 2024.05 [Intel: Announcing WebNN Developer Preview for the AI PC](https://www.intel.com/content/www/us/en/developer/articles/news/announcing-webnn-developer-preview-for-the-ai-pc.html) - by Qi Zhang
+- 2024.05 [Microsoft: Introducing the WebNN Developer Preview with DirectML](https://blogs.windows.com/windowsdeveloper/2024/05/24/introducing-the-webnn-developer-preview-with-directml/) - by Adele Parsons, Dwayne Robinson
 - 2024.05 [Microsoft: WebNN Developer Preview through DirectML announced at Build 2024](https://blogs.windows.com/windowsdeveloper/2024/05/21/unlock-a-new-era-of-innovation-with-windows-copilot-runtime-and-copilot-pcs/) - by Paval Davuluri
 - 2024.05 [NVIDIA: WebNN accelerated with NVIDIA RTX via DirectML announced at Build 2024](https://blogs.nvidia.com/blog/rtx-advanced-ai-windows-pc-build/) by Jesse Clayton
 - 2024.04 [W3C: Updated WebNN API Candidate Recommendation](https://www.w3.org/news/2024/updated-candidate-recommendation-web-neural-network-api/) - by Dominique Hazael-Massieux, Anssi Kostiainen
@@ -58,24 +59,24 @@
 
 ## Community
 
-- [Web Machine Learning Working Group](https://www.w3.org/groups/wg/webmachinelearning/) - W3C Community.
-- [Web Machine Learning Community Group](https://www.w3.org/groups/cg/webmachinelearning/) - W3C Community.
+- [Web Machine Learning Working Group](https://www.w3.org/groups/wg/webmachinelearning/) - W3C Community
+- [Web Machine Learning Community Group](https://www.w3.org/groups/cg/webmachinelearning/) - W3C Community
 
 ## Demos
 
 ### Demos on CPU or GPU
 
-- [Image Classification](https://microsoft.github.io/webnn-developer-preview/demos/image-classification/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/demos-v1.01/demos/image-classification)) - EfficientNet Lite4, MobileNet V2, ResNet50
-- [Segment Anything](https://microsoft.github.io/webnn-developer-preview/demos/segment-anything/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/demos-v1.01/demos/segment-anything))
-- [Stable Diffusion 1.5](https://microsoft.github.io/webnn-developer-preview/demos/stable-diffusion-1.5/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/demos-v1.01/demos/stable-diffusion-1.5)) - Text Encoder, UNet, VAE, Safety Checker
-- [Stable Diffusion Turbo](https://microsoft.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/demos-v1.01/demos/sd-turbo)) - Text Encoder, UNet, VAE, Safety Checker
-- [Whisper Base](https://microsoft.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/demos-v1.01/demos/whisper-base)) - Audio, recording, and real time Whisper transcription
+- [Image Classification](https://microsoft.github.io/webnn-developer-preview/demos/image-classification/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/image-classification)) - EfficientNet Lite4, MobileNet V2, ResNet50
+- [Segment Anything](https://microsoft.github.io/webnn-developer-preview/demos/segment-anything/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/segment-anything))
+- [Stable Diffusion 1.5](https://microsoft.github.io/webnn-developer-preview/demos/stable-diffusion-1.5/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/stable-diffusion-1.5)) - Text Encoder, UNet, VAE, Safety Checker
+- [Stable Diffusion Turbo](https://microsoft.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/sd-turbo)) - Text Encoder, UNet, VAE, Safety Checker
+- [Whisper Base](https://microsoft.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/whisper-base)) - Audio, recording, and real time Whisper transcription
 - [WebNN API Demo for Golang](https://me.sansmoraxz.com/webnngo-demo/) ([source](https://github.com/sansmoraxz/webnngo-demo)) - by Souyama
 
 ### Demos on NPU
 
-- [Image Classification](https://microsoft.github.io/webnn-developer-preview/demos/image-classification/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/demos-v1.01/demos/image-classification)) - EfficientNet Lite4, MobileNet v2, ResNet50 (coming soon)
-- [Whisper Base](https://microsoft.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/demos-v1.01/demos/whisper-base)) - Audio, recording, and real time Whisper transcription (coming soon)
+- [Image Classification](https://microsoft.github.io/webnn-developer-preview/demos/image-classification/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/image-classification)) - EfficientNet Lite4, MobileNet v2, ResNet50 (coming soon)
+- [Whisper Base](https://microsoft.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/whisper-base)) - Audio, recording, and real time Whisper transcription (coming soon)
 
 ## Frameworks
 
@@ -86,8 +87,9 @@
 ## Presentations
 
 - 2024.02 [WebNN: Die AI-Revolution im Browser?](https://basta.net/web-development/webbnn-api-ai-browser/) - by Christian Liebel
+- 2023.11 [第六届 FEDAY: WEBNN, WEB 端侧推理的未来](https://ibelem.github.io/webnn-is-the-future/) - by Belem Zhang
 - 2023.10 [WebNN Implementation on DirectML](https://docs.google.com/presentation/d/1u9efG33BCIp0VdvpXXAu1yJlW10YvNNbnSklwJPBeCM/edit#slide=id.g24dab4effb5_0_0) - BlinkOn 18 - by Chai Chaoweeraprasit, Rafael Cintron, Ningxin Hu
-- 2023.06 [WebNN Updates](https://ibelem.github.io/webnn-updates/) [PDF / 简体中文](https://www.w3.org/2023/06/china-web-forum/slides/zhang-min.pdf) - by Belem Zhang
+- 2023.06 [W3C 中国 Web 前沿技术论坛: WebNN Updates](https://ibelem.github.io/webnn-updates/) [PDF / 简体中文](https://www.w3.org/2023/06/china-web-forum/slides/zhang-min.pdf) - by Belem Zhang
 
 ## Samples
 
@@ -138,11 +140,12 @@
 - 2024.05 [Microsoft Build '24: Bring AI experiences to all your Windows Devices](https://build.microsoft.com/en-US/sessions/65c11f47-56d8-442b-ae52-48df62b7b542) by Adele Parsons
 - 2024.05 [Microsoft Build '24: The Web is AI Ready—maximize your AI web development with WebNN](https://build.microsoft.com/en-US/sessions/fe8f0c03-6f31-400a-8954-4e37c935e6e9) - by Moh Haghighat
 - 2024.05 [Web Neural Networks for the AI PC](https://www.youtube.com/watch?v=kpJRfm5tunQ) ([bilibili](https://www.bilibili.com/video/BV1Y1421B7SQ/)) - by Guy Tamir
+- 2024.02 [QCon上海 2023: WebNN，Web 端侧推理的未来](https://www.infoq.cn/video/LXliFqOfOrj2wNvslzZ0) - by Ningxin Hu
 - 2023.10 [Google BlinkOn 18: WebNN Implementation on DirectML](https://www.youtube.com/watch?v=FapumEVdrcg) - by Chai Chaoweeraprasit
 - 2023.10 [AI @ W3C](https://www.youtube.com/watch?v=E0TbotgqAgw) by Dominique Hazael-Massieux
 - 2021.12 [OpenCV Webinar 13: Chinese, Use WebNN to Optimize OpenCV.js DNN](https://www.youtube.com/watch?v=kQogwlhSsQ4) - by Hanxi Guo
 - 2021.11 [Introducing WebNN as a new backend for TensorflowJS](https://www.youtube.com/watch?v=v3LAY-Do25I) - by Shivay Lamba
-- 2021.10 [W3C TPAC: WebNN Performance Comparison](https://www.youtube.com/watch?v=cHmWE5IHo9o&list=PLNhYw8KaLq2VOeJCyWZiEcmVYpXl5dw81) - by Wanming Lin
+- 2021.10 [W3C TPAC 2021: WebNN Performance Comparison](https://www.youtube.com/watch?v=cHmWE5IHo9o&list=PLNhYw8KaLq2VOeJCyWZiEcmVYpXl5dw81) - by Wanming Lin
 
 ## Websites
 
