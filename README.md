@@ -106,6 +106,7 @@
 - [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - Tiny Yolo v2, SSD MobileNet v1
 - [Semantic Segmentation](https://webmachinelearning.github.io/webnn-samples/semantic_segmentation/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/semantic_segmentation)) - DeepLab v3
 - [Style Transfer](https://webmachinelearning.github.io/webnn-samples/style_transfer/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/style_transfer)) - Fast Style Transfer
+- [Super Resolution](https://sushanthr.github.io/RapidEsrGan/) ([source](https://github.com/sushanthr/RapidEsrGan)) - Rapid ESRGAN - by Sushanthr
 
 ### Samples on NPU
 
