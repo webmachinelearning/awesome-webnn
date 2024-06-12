@@ -96,6 +96,7 @@
 ### Samples on CPU or GPU
 
 - [WebNN Samples](https://webmachinelearning.github.io/webnn-samples-intro/) ([source](https://github.com/webmachinelearning/webnn-samples))
+- [NNotepad - WebNN Playground](https://webmachinelearning.github.io/webnn-samples/nnotepad/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/nnotepad)) - by Joshua Bell
 - [Code Editor](https://webmachinelearning.github.io/webnn-samples/code/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/code))
 - [Face Recognition](https://webmachinelearning.github.io/webnn-samples/face_recognition/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/face_recognition)) - FaceNet, SSD MobileNet V2 Face
 - [Facial Landmark Detection](https://webmachinelearning.github.io/webnn-samples/facial_landmark_detection/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/facial_landmark_detection)) - Face Landmark (SimpleCNN), SSD MobileNet V2 Face
@@ -118,6 +119,11 @@
 - [W3C Web Neural Network API](https://www.w3.org/TR/webnn/) - by Ningxin Hu, Chai Chaoweeraprasit, Dwayne Robinson.
 
 ## Testimonials
+
+## Tools
+
+- [Onnx2Text](https://github.com/fdwr/Onnx2Text) - Converts an ONNX ML model protobuf from/to text - by Dwayne Robinson
+- [Netron WebNN](https://ibelem.github.io/netron/) - Show WebNN support status in Chromium for models opened in Netron - by Belem Zhang
 
 ## Tutorials
 
