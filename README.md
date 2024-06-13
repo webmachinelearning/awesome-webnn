@@ -96,28 +96,34 @@
 ### Samples on CPU or GPU
 
 - [WebNN Samples](https://webmachinelearning.github.io/webnn-samples-intro/) ([source](https://github.com/webmachinelearning/webnn-samples))
-- [Code Editor](https://webmachinelearning.github.io/webnn-samples/code/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/code))
-- [Face Recognition](https://webmachinelearning.github.io/webnn-samples/face_recognition/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/face_recognition)) - FaceNet, SSD MobileNet V2 Face
-- [Facial Landmark Detection](https://webmachinelearning.github.io/webnn-samples/facial_landmark_detection/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/facial_landmark_detection)) - Face Landmark (SimpleCNN), SSD MobileNet V2 Face
-- [Handwritten Digits Classification](https://webmachinelearning.github.io/webnn-samples/lenet/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/lenet)) - LeNet
-- [Image Classification](https://webmachinelearning.github.io/webnn-samples/image_classification/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/image_classification)) - MobileNet v2, ResNet50 v2, SqueezeNet
-- [Noise Suppression](https://webmachinelearning.github.io/webnn-samples/nsnet2/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/nsnet2)) - NSNet2
-- [Noise Suppression](https://webmachinelearning.github.io/webnn-samples/rnnoise/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/rnnoise)) - RNNoise
-- [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - Tiny Yolo v2, SSD MobileNet v1
-- [Semantic Segmentation](https://webmachinelearning.github.io/webnn-samples/semantic_segmentation/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/semantic_segmentation)) - DeepLab v3
-- [Style Transfer](https://webmachinelearning.github.io/webnn-samples/style_transfer/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/style_transfer)) - Fast Style Transfer
+- [NNotepad - WebNN Playground](https://webmachinelearning.github.io/webnn-samples/nnotepad/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/nnotepad)) - by Joshua Bell
+- [Code Editor](https://webmachinelearning.github.io/webnn-samples/code/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/code))
+- [Face Recognition](https://webmachinelearning.github.io/webnn-samples/face_recognition/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/face_recognition)) - FaceNet, SSD MobileNet V2 Face
+- [Facial Landmark Detection](https://webmachinelearning.github.io/webnn-samples/facial_landmark_detection/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/facial_landmark_detection)) - Face Landmark (SimpleCNN), SSD MobileNet V2 Face
+- [Handwritten Digits Classification](https://webmachinelearning.github.io/webnn-samples/lenet/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/lenet)) - LeNet
+- [Image Classification](https://webmachinelearning.github.io/webnn-samples/image_classification/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/image_classification)) - MobileNet v2, ResNet50 v2, SqueezeNet
+- [Noise Suppression](https://webmachinelearning.github.io/webnn-samples/nsnet2/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/nsnet2)) - NSNet2
+- [Noise Suppression](https://webmachinelearning.github.io/webnn-samples/rnnoise/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/rnnoise)) - RNNoise
+- [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - Tiny Yolo v2, SSD MobileNet v1
+- [Semantic Segmentation](https://webmachinelearning.github.io/webnn-samples/semantic_segmentation/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/semantic_segmentation)) - DeepLab v3
+- [Style Transfer](https://webmachinelearning.github.io/webnn-samples/style_transfer/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/style_transfer)) - Fast Style Transfer
 - [Super Resolution](https://sushanthr.github.io/RapidEsrGan/) ([source](https://github.com/sushanthr/RapidEsrGan)) - Rapid ESRGAN - by Sushanthr
 
 ### Samples on NPU
 
-- [Image Classification](https://webmachinelearning.github.io/webnn-samples/image_classification/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/image_classification)) - EfficientNet Lite 4, MobileNet v2, ResNet 50 v1 (coming soon)
-- [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/index.html) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - SSD MobileNet v1 (coming soon)
+- [Image Classification](https://webmachinelearning.github.io/webnn-samples/image_classification/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/image_classification)) - EfficientNet Lite 4, MobileNet v2, ResNet 50 v1 (coming soon)
+- [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - SSD MobileNet v1 (coming soon)
 
 ## Spec
 
 - [W3C Web Neural Network API](https://www.w3.org/TR/webnn/) - by Ningxin Hu, Chai Chaoweeraprasit, Dwayne Robinson.
 
 ## Testimonials
+
+## Tools
+
+- [Onnx2Text](https://github.com/fdwr/Onnx2Text) - Converts an ONNX ML model protobuf from/to text - by Dwayne Robinson
+- [Netron WebNN](https://ibelem.github.io/netron/) - Show WebNN support status in Chromium for models opened in Netron - by Belem Zhang
 
 ## Tutorials
 
