@@ -129,8 +129,8 @@
 
 ### ONNX Runtime Web
 
-- 2024.05 [Microsoft Learn: Windows AI / DirectML: WebNN Overview](https://learn.microsoft.com/en-us/windows/ai/directml/webnn-overview) ([简体中文](https://learn.microsoft.com/zh-cn/windows/ai/directml/webnn-overview)) ([日本語](https://learn.microsoft.com/ja-jp/windows/ai/directml/webnn-overview))
-- 2024.05 [Microsoft Learn: Windows AI / DirectML: WebNN API Tutorial](https://learn.microsoft.com/en-us/windows/ai/directml/webnn-tutorial) ([简体中文](https://learn.microsoft.com/zh-cn/windows/ai/directml/webnn-tutorial)) ([日本語](https://learn.microsoft.com/ja-jp/windows/ai/directml/webnn-tutorial))
+- 2024.05 [Microsoft Learn: Windows AI / DirectML: WebNN Overview](https://learn.microsoft.com/en-us/windows/ai/directml/webnn-overview) ([简体中文](https://learn.microsoft.com/zh-cn/windows/ai/directml/webnn-overview)) ([繁體中文](https://learn.microsoft.com/zh-tw/windows/ai/directml/webnn-overview)) ([日本語](https://learn.microsoft.com/ja-jp/windows/ai/directml/webnn-overview))
+- 2024.05 [Microsoft Learn: Windows AI / DirectML: WebNN API Tutorial](https://learn.microsoft.com/en-us/windows/ai/directml/webnn-tutorial) ([简体中文](https://learn.microsoft.com/zh-cn/windows/ai/directml/webnn-tutorial)) ([繁體中文](https://learn.microsoft.com/zh-tw/windows/ai/directml/webnn-tutorial)) ([日本語](https://learn.microsoft.com/ja-jp/windows/ai/directml/webnn-tutorial))
 - [ONNX Runtime Web Tutorials](https://onnxruntime.ai/docs/tutorials/web/)
 - [Build ONNX Runtime Web with WebNN Support](https://onnxruntime.ai/docs/build/web.html)
 - [WebNN Operators Support Table](https://github.com/microsoft/onnxruntime/blob/main/js/web/docs/webnn-operators.md) - by Wanming Lin
