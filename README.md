@@ -41,11 +41,13 @@
 
 ## Articles
 
+- 2024.07 [Web AI Monthly #20: Microsoft / Intel launch WebNN / WebGPU playgrounds](https://www.linkedin.com/pulse/web-ai-monthly-20-collaboration-hugging-face-global-talks-jason-mayes-lwgdc/) by Jason Mayes
 - 2024.03 [Web-Apps smarter machen mit offlinefähigen KI-Modellen, WebGPU und WebNN](https://www.heise.de/blog/Web-Apps-smarter-machen-mit-offlinefaehigen-KI-Modellen-WebGPU-und-WebNN-7520733.html) - by Christian Liebel
 - 2023.03 [Video Frame Processing on the Web – WebAssembly, WebGPU, WebGL, WebCodecs, WebNN, and WebTransport](https://webrtchacks.com/video-frame-processing-on-the-web-webassembly-webgpu-webgl-webcodecs-webnn-and-webtransport/) - by François Daoust
 
 ## Blogs
 
+- 2024.06 [WebNN: Bringing AI Inference to the Browser](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/webnn-bringing-ai-inference-to-the-browser/ba-p/4175003) by Sapna Giddegowda
 - 2024.05 [Intel: Announcing WebNN Developer Preview for the AI PC](https://www.intel.com/content/www/us/en/developer/articles/news/announcing-webnn-developer-preview-for-the-ai-pc.html) - by Qi Zhang
 - 2024.05 [Microsoft: Introducing the WebNN Developer Preview with DirectML](https://blogs.windows.com/windowsdeveloper/2024/05/24/introducing-the-webnn-developer-preview-with-directml/) - by Adele Parsons, Dwayne Robinson
 - 2024.05 [Microsoft: WebNN Developer Preview through DirectML announced at Build 2024](https://blogs.windows.com/windowsdeveloper/2024/05/21/unlock-a-new-era-of-innovation-with-windows-copilot-runtime-and-copilot-pcs/) - by Paval Davuluri
@@ -86,6 +88,7 @@
 
 ## Presentations
 
+- 2024.07 [Generative AI power on the web: making web apps smarter with WebGPU and WebNN] https://www.thinktecture.com/contributions/generative-ai-power-on-the-web-making-web-apps-smarter-with-webgpu-and-webnn/) - by Christian Liebel
 - 2024.02 [WebNN: Die AI-Revolution im Browser?](https://basta.net/web-development/webbnn-api-ai-browser/) - by Christian Liebel
 - 2023.11 [第六届 FEDAY: WEBNN, WEB 端侧推理的未来](https://ibelem.github.io/webnn-is-the-future/) - by Belem Zhang
 - 2023.10 [WebNN Implementation on DirectML](https://docs.google.com/presentation/d/1u9efG33BCIp0VdvpXXAu1yJlW10YvNNbnSklwJPBeCM/edit#slide=id.g24dab4effb5_0_0) - BlinkOn 18 - by Chai Chaoweeraprasit, Rafael Cintron, Ningxin Hu
@@ -143,6 +146,7 @@
 
 ## Videos
 
+- 2024.07 [Innovations in WebNN](https://www.youtube.com/watch?v=JwLtMFS_2UE) by Jerry Makare
 - 2024.05 [Microsoft Build '24: Bring AI experiences to all your Windows Devices](https://build.microsoft.com/en-US/sessions/65c11f47-56d8-442b-ae52-48df62b7b542) by Adele Parsons
 - 2024.05 [Microsoft Build '24: The Web is AI Ready—maximize your AI web development with WebNN](https://build.microsoft.com/en-US/sessions/fe8f0c03-6f31-400a-8954-4e37c935e6e9) - by Moh Haghighat
 - 2024.05 [Web Neural Networks for the AI PC](https://www.youtube.com/watch?v=kpJRfm5tunQ) ([bilibili](https://www.bilibili.com/video/BV1Y1421B7SQ/)) - by Guy Tamir
