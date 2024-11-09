@@ -88,7 +88,8 @@
 
 ## Presentations
 
-- 2024.07 [Generative AI power on the web: making web apps smarter with WebGPU and WebNN] https://www.thinktecture.com/contributions/generative-ai-power-on-the-web-making-web-apps-smarter-with-webgpu-and-webnn/) - by Christian Liebel
+- 2024.11 [Privacy-first in-browser Generative AI web apps: offline-ready, future-proof, standards-based](https://www.slideshare.net/slideshow/privacy-first-in-browser-generative-ai-web-apps-offline-ready-future-proof-standards-based/273142915) - by Maxim Salnikov
+- 2024.07 [Generative AI power on the web: making web apps smarter with WebGPU and WebNN](https://www.thinktecture.com/contributions/generative-ai-power-on-the-web-making-web-apps-smarter-with-webgpu-and-webnn/) - by Christian Liebel
 - 2024.02 [WebNN: Die AI-Revolution im Browser?](https://basta.net/web-development/webbnn-api-ai-browser/) - by Christian Liebel
 - 2023.11 [第六届 FEDAY: WEBNN, WEB 端侧推理的未来](https://ibelem.github.io/webnn-is-the-future/) - by Belem Zhang
 - 2023.10 [WebNN Implementation on DirectML](https://docs.google.com/presentation/d/1u9efG33BCIp0VdvpXXAu1yJlW10YvNNbnSklwJPBeCM/edit#slide=id.g24dab4effb5_0_0) - BlinkOn 18 - by Chai Chaoweeraprasit, Rafael Cintron, Ningxin Hu
