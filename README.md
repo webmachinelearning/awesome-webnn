@@ -73,21 +73,30 @@
 - [Stable Diffusion 1.5](https://microsoft.github.io/webnn-developer-preview/demos/stable-diffusion-1.5/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/stable-diffusion-1.5)) - Text Encoder, UNet, VAE, Safety Checker
 - [Stable Diffusion Turbo](https://microsoft.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/sd-turbo)) - Text Encoder, UNet, VAE, Safety Checker
 - [Whisper Base](https://microsoft.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/whisper-base)) - Audio, recording, and real time Whisper transcription
-- [WebNN API Demo for Golang](https://me.sansmoraxz.com/webnngo-demo/) ([source](https://github.com/sansmoraxz/webnngo-demo)) - by Souyama
 
 ### Demos on NPU
 
 - [Image Classification](https://microsoft.github.io/webnn-developer-preview/demos/image-classification/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/image-classification)) - EfficientNet Lite4, MobileNet v2, ResNet50 (coming soon)
 - [Whisper Base](https://microsoft.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/whisper-base)) - Audio, recording, and real time Whisper transcription (coming soon)
 
+### Other Demos
+
+- [Angular AI (Analysis, Vision, Generation)](https://ng-ai-zeta.vercel.app/) ([source](https://github.com/webmaxru/ng-ai)) - by Maxim Salnikov
+- [RapidChat](https://sushanthr.github.io/RapidChat/) ([source](https://github.com/sushanthr/RapidChat)) - by Sushanth Rajasankar
+- [SD Turbo Image-to-Image](https://eyaler.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/eyaler/webnn-developer-preview/)) by Eyal Gruss
+- [Super Resolution](https://sushanthr.github.io/RapidEsrGan/) ([source](https://github.com/sushanthr/RapidEsrGan)) - by Sushanth Rajasankar
+- [WebNN API Demo for Golang](https://me.sansmoraxz.com/webnngo-demo/) ([source](https://github.com/sansmoraxz/webnngo-demo)) - by Souyama
+
 ## Frameworks
 
 - [ONNX Runtime Web](https://onnxruntime.ai/)
   - [WebNN Supported Versions](https://onnxruntime.ai/docs/get-started/with-javascript/web.html#supported-versions)
-- [Transformers.js](https://huggingface.co/docs/transformers.js)
+- [Transformers.js](https://huggingface.co/docs/transformers.js) by Joshua Lochner
+- [Web AI Toolkit](https://github.com/jgw96/web-ai-toolkit) by Justin Willis
 
 ## Presentations
 
+- 2024.11 [Privacy-first in-browser Generative AI web apps: offline-ready, future-proof, standards-based](https://www.slideshare.net/slideshow/privacy-first-in-browser-generative-ai-web-apps-offline-ready-future-proof-standards-based/273142915) by Maxim Salnikov
 - 2024.07 [Generative AI power on the web: making web apps smarter with WebGPU and WebNN] https://www.thinktecture.com/contributions/generative-ai-power-on-the-web-making-web-apps-smarter-with-webgpu-and-webnn/) - by Christian Liebel
 - 2024.02 [WebNN: Die AI-Revolution im Browser?](https://basta.net/web-development/webbnn-api-ai-browser/) - by Christian Liebel
 - 2023.11 [第六届 FEDAY: WEBNN, WEB 端侧推理的未来](https://ibelem.github.io/webnn-is-the-future/) - by Belem Zhang
@@ -110,7 +119,6 @@
 - [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - Tiny Yolo v2, SSD MobileNet v1
 - [Semantic Segmentation](https://webmachinelearning.github.io/webnn-samples/semantic_segmentation/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/semantic_segmentation)) - DeepLab v3
 - [Style Transfer](https://webmachinelearning.github.io/webnn-samples/style_transfer/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/style_transfer)) - Fast Style Transfer
-- [Super Resolution](https://sushanthr.github.io/RapidEsrGan/) ([source](https://github.com/sushanthr/RapidEsrGan)) - Rapid ESRGAN - by Sushanthr
 
 ### Samples on NPU
 
@@ -146,6 +154,9 @@
 
 ## Videos
 
+- 2024.11 [Web AI on next generation AI PCs](https://www.youtube.com/watch?v=5BjB7AIed3A) by Moh Haghighat
+- 2024.11 [The Web Neural Network (WebNN) API: Where we are and what's Next](https://www.youtube.com/watch?v=FoYBWzXCsmM) by Rob Kochman, Rafael Cintron
+- 2024.11 [Empowering AI PC’s with Intel’s AI Software Stack](https://www.youtube.com/watch?v=j_g1IKIDqHs) by Prashant Bhardwaj
 - 2024.07 [Innovations in WebNN](https://www.youtube.com/watch?v=JwLtMFS_2UE) by Jerry Makare
 - 2024.05 [Microsoft Build '24: Bring AI experiences to all your Windows Devices](https://build.microsoft.com/en-US/sessions/65c11f47-56d8-442b-ae52-48df62b7b542) by Adele Parsons
 - 2024.05 [Microsoft Build '24: The Web is AI Ready—maximize your AI web development with WebNN](https://build.microsoft.com/en-US/sessions/fe8f0c03-6f31-400a-8954-4e37c935e6e9) - by Moh Haghighat
