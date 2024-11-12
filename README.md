@@ -74,6 +74,7 @@
 - [Stable Diffusion Turbo](https://microsoft.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/sd-turbo)) - Text Encoder, UNet, VAE, Safety Checker
 - [Whisper Base](https://microsoft.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/whisper-base)) - Audio, recording, and real time Whisper transcription
 - [WebNN API Demo for Golang](https://me.sansmoraxz.com/webnngo-demo/) ([source](https://github.com/sansmoraxz/webnngo-demo)) - by Souyama
+- [WebNN via Transformers.js](https://ng-ai-zeta.vercel.app/) ([source](https://github.com/webmaxru/ng-ai/)) - image classification, sentiment analysis, feature detection, offline-ready, installable (PWA), web workers - by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
 
 ### Demos on NPU
 
