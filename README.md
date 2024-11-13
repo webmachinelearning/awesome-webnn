@@ -74,6 +74,7 @@
 - [Stable Diffusion Turbo](https://microsoft.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/sd-turbo)) - Text Encoder, UNet, VAE, Safety Checker
 - [Whisper Base](https://microsoft.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/whisper-base)) - Audio, recording, and real time Whisper transcription
 - [WebNN API Demo for Golang](https://me.sansmoraxz.com/webnngo-demo/) ([source](https://github.com/sansmoraxz/webnngo-demo)) - by Souyama
+- [WebNN via Transformers.js](https://ng-ai-zeta.vercel.app/) ([source](https://github.com/webmaxru/ng-ai/)) - image classification, sentiment analysis, feature detection, offline-ready, installable (PWA), web workers - by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
 
 ### Demos on NPU
 
@@ -88,7 +89,8 @@
 
 ## Presentations
 
-- 2024.07 [Generative AI power on the web: making web apps smarter with WebGPU and WebNN] https://www.thinktecture.com/contributions/generative-ai-power-on-the-web-making-web-apps-smarter-with-webgpu-and-webnn/) - by Christian Liebel
+- 2024.11 [Privacy-first in-browser Generative AI web apps: offline-ready, future-proof, standards-based](https://www.slideshare.net/slideshow/privacy-first-in-browser-generative-ai-web-apps-offline-ready-future-proof-standards-based/273142915) - by Maxim Salnikov
+- 2024.07 [Generative AI power on the web: making web apps smarter with WebGPU and WebNN](https://www.thinktecture.com/contributions/generative-ai-power-on-the-web-making-web-apps-smarter-with-webgpu-and-webnn/) - by Christian Liebel
 - 2024.02 [WebNN: Die AI-Revolution im Browser?](https://basta.net/web-development/webbnn-api-ai-browser/) - by Christian Liebel
 - 2023.11 [第六届 FEDAY: WEBNN, WEB 端侧推理的未来](https://ibelem.github.io/webnn-is-the-future/) - by Belem Zhang
 - 2023.10 [WebNN Implementation on DirectML](https://docs.google.com/presentation/d/1u9efG33BCIp0VdvpXXAu1yJlW10YvNNbnSklwJPBeCM/edit#slide=id.g24dab4effb5_0_0) - BlinkOn 18 - by Chai Chaoweeraprasit, Rafael Cintron, Ningxin Hu
