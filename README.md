@@ -89,7 +89,8 @@
 - [SD Turbo Image-to-Image](https://eyaler.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/eyaler/webnn-developer-preview/)) by Eyal Gruss
 - [Super Resolution](https://sushanthr.github.io/RapidEsrGan/) ([source](https://github.com/sushanthr/RapidEsrGan)) - by Sushanth Rajasankar
 - [WebNN API Demo for Golang](https://me.sansmoraxz.com/webnngo-demo/) ([source](https://github.com/sansmoraxz/webnngo-demo)) - by Souyama
-- [WebNN via Transformers.js](https://ng-ai-zeta.vercel.app/) ([source](https://github.com/webmaxru/ng-ai/)) - image classification, sentiment analysis, feature detection, offline-ready, installable (PWA), web workers - by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
+- [WebNN via Transformers.js / Angular](https://ng-ai-zeta.vercel.app/) ([source](https://github.com/webmaxru/ng-ai/)) - image classification, sentiment analysis, feature detection, offline-ready, installable (PWA), web workers - by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
+- [WebNN via Transformers.js / Next.js](https://nextjs-webnn.vercel.app/) ([source](https://github.com/webmaxru/nextjs-webnn/)) - image classification - by Maxim Salnikov
 
 ## Frameworks
 
