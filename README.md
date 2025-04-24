@@ -42,12 +42,14 @@
 
 ## Articles
 
+- 2024.12 [How the Web Neural Network API Brings AI Power to Your Browser](https://javascript.plainenglish.io/how-the-web-neural-network-api-brings-ai-power-to-your-browser-8bef925954f8) by Ferid Brković
 - 2024.07 [Web AI Monthly #20: Microsoft / Intel launch WebNN / WebGPU playgrounds](https://www.linkedin.com/pulse/web-ai-monthly-20-collaboration-hugging-face-global-talks-jason-mayes-lwgdc/) by Jason Mayes
 - 2024.03 [Web-Apps smarter machen mit offlinefähigen KI-Modellen, WebGPU und WebNN](https://www.heise.de/blog/Web-Apps-smarter-machen-mit-offlinefaehigen-KI-Modellen-WebGPU-und-WebNN-7520733.html) - by Christian Liebel
 - 2023.03 [Video Frame Processing on the Web – WebAssembly, WebGPU, WebGL, WebCodecs, WebNN, and WebTransport](https://webrtchacks.com/video-frame-processing-on-the-web-webassembly-webgpu-webgl-webcodecs-webnn-and-webtransport/) - by François Daoust
 
 ## Blogs
 
+- 2024.12 [WebNN: Bridging the Gap Between AI and the Web](https://www.nsdbytes.com/web-neural-network-api-webnn-bridging-the-gap-between-ai-and-the-web/)
 - 2024.06 [WebNN: Bringing AI Inference to the Browser](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/webnn-bringing-ai-inference-to-the-browser/ba-p/4175003) by Sapna Giddegowda
 - 2024.05 [Intel: Announcing WebNN Developer Preview for the AI PC](https://www.intel.com/content/www/us/en/developer/articles/news/announcing-webnn-developer-preview-for-the-ai-pc.html) - by Qi Zhang
 - 2024.05 [Microsoft: Introducing the WebNN Developer Preview with DirectML](https://blogs.windows.com/windowsdeveloper/2024/05/24/introducing-the-webnn-developer-preview-with-directml/) - by Adele Parsons, Dwayne Robinson
@@ -58,7 +60,7 @@
 ## Browser Support
 
 - [Implementation Status of WebNN Operations](https://webmachinelearning.github.io/webnn-status/) ([data](https://github.com/webmachinelearning/webmachinelearning.github.io/blob/main/assets/json/webnn_status.json))
-- [WebNN browser support overview](https://caniuse.com/?search=ml) ([data](https://github.com/mdn/browser-compat-data/pull/22569/files)) - CanIUse.com
+- [WebNN browser support overview](https://caniuse.com/?search=webnn) ([data](https://github.com/mdn/browser-compat-data/pull/22569/files)) - CanIUse.com
 
 ## Community
 
@@ -87,7 +89,8 @@
 - [SD Turbo Image-to-Image](https://eyaler.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/eyaler/webnn-developer-preview/)) by Eyal Gruss
 - [Super Resolution](https://sushanthr.github.io/RapidEsrGan/) ([source](https://github.com/sushanthr/RapidEsrGan)) - by Sushanth Rajasankar
 - [WebNN API Demo for Golang](https://me.sansmoraxz.com/webnngo-demo/) ([source](https://github.com/sansmoraxz/webnngo-demo)) - by Souyama
-- [WebNN via Transformers.js](https://ng-ai-zeta.vercel.app/) ([source](https://github.com/webmaxru/ng-ai/)) - image classification, sentiment analysis, feature detection, offline-ready, installable (PWA), web workers - by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
+- [WebNN via Transformers.js / Angular](https://ng-ai-zeta.vercel.app/) ([source](https://github.com/webmaxru/ng-ai/)) - image classification, sentiment analysis, feature detection, offline-ready, installable (PWA), web workers - by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
+- [WebNN via Transformers.js / Next.js](https://nextjs-webnn.vercel.app/) ([source](https://github.com/webmaxru/nextjs-webnn/)) - image classification - by Maxim Salnikov
 
 ## Frameworks
 
@@ -156,6 +159,8 @@
 
 ## Videos
 
+- 2025.04 [BlinkOn 20: Compute Abstraction for AI: Wasm, WebGPU, and WebNN](https://www.youtube.com/watch?v=IgIdayJH4_o) by Phillis Tang
+- 2025.03 [AI in Browser using WebNN](https://www.youtube.com/watch?v=qLDq3kj79DY) by Moh Haghighat and Guy Tamir
 - 2024.11 [Web AI on next generation AI PCs](https://www.youtube.com/watch?v=5BjB7AIed3A) by Moh Haghighat
 - 2024.11 [The Web Neural Network (WebNN) API: Where we are and what's Next](https://www.youtube.com/watch?v=FoYBWzXCsmM) by Rob Kochman, Rafael Cintron
 - 2024.11 [Empowering AI PC’s with Intel’s AI Software Stack](https://www.youtube.com/watch?v=j_g1IKIDqHs) by Prashant Bhardwaj
