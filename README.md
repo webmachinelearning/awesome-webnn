@@ -122,13 +122,15 @@
 - [Noise Suppression](https://webmachinelearning.github.io/webnn-samples/nsnet2/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/nsnet2)) - NSNet2
 - [Noise Suppression](https://webmachinelearning.github.io/webnn-samples/rnnoise/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/rnnoise)) - RNNoise
 - [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - Tiny Yolo v2, SSD MobileNet v1
+- [Selfie Segmentation](https://webmachinelearning.github.io/webnn-samples/selfie_segmentation/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/selfie_segmentation)) - Selfie Segmentation
 - [Semantic Segmentation](https://webmachinelearning.github.io/webnn-samples/semantic_segmentation/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/semantic_segmentation)) - DeepLab v3
 - [Style Transfer](https://webmachinelearning.github.io/webnn-samples/style_transfer/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/style_transfer)) - Fast Style Transfer
 
 ### Samples on NPU
 
 - [Image Classification](https://webmachinelearning.github.io/webnn-samples/image_classification/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/image_classification)) - EfficientNet Lite 4, MobileNet v2, ResNet 50 v1 (coming soon)
-- [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - SSD MobileNet v1 (coming soon)
+- [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - SSD MobileNet v1
+- [Selfie Segmentation](https://webmachinelearning.github.io/webnn-samples/selfie_segmentation/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/selfie_segmentation)) - Selfie Segmentation
 
 ## Spec
 
