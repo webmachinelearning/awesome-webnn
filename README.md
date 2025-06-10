@@ -139,7 +139,19 @@
 ## Tools
 
 - [Onnx2Text](https://github.com/fdwr/Onnx2Text) - Converts an ONNX ML model protobuf from/to text - by Dwayne Robinson
-- [Netron WebNN](https://ibelem.github.io/netron/) - Show WebNN support status in Chromium for models opened in Netron - by Belem Zhang
+- [WebNN Netron](https://ibelem.github.io/netron/) - Show WebNN support status in Chromium for models opened in Netron - by Belem Zhang
+
+### WebNN Model-to-Code Conversion
+
+- [ONNX2WebNN](https://github.com/huningxin/onnx2webnn) - by Ningxin Hu
+- [WebNN Code Generator](https://github.com/ibelem/webnn-code-generator/) - by Belem Zhang
+- [WebNN Utilities / OnnxConverter](https://github.com/MicrosoftEdge/WebNNUtils/) - by Microsoft Edge team
+
+Read [more details](https://webnn.io/en/learn/tutorials/webnn/vanillajs) for generating WebNN Vanilla JavaScript code.
+
+### WebNN Code-to-Code Translation
+
+ - [To do] Converting existing Python-based ML code (particularly PyTorch/TorchScript) from other frameworks to WebNN lean vanilla JavaScript.
 
 ## Tutorials
 
@@ -159,6 +171,7 @@
 
 ## Videos
 
+- 2025.06 [Smarter Angular Apps with WebNN & Prompt API](https://www.youtube.com/watch?v=s1xizqmdX4g) by Christian Liebel
 - 2025.04 [BlinkOn 20: Compute Abstraction for AI: Wasm, WebGPU, and WebNN](https://www.youtube.com/watch?v=IgIdayJH4_o) by Phillis Tang
 - 2025.03 [AI in Browser using WebNN](https://www.youtube.com/watch?v=qLDq3kj79DY) by Moh Haghighat and Guy Tamir
 - 2024.11 [Web AI on next generation AI PCs](https://www.youtube.com/watch?v=5BjB7AIed3A) by Moh Haghighat
@@ -179,6 +192,7 @@
 ## Websites
 
 - [W3C Web Neural Network](https://webnn.dev/)
+- [WebNN Documentation](https://webnn.io/)
 - [WebNN Developer Preview](https://microsoft.github.io/webnn-developer-preview)
 - [WebNN: Intel AI PC Development](https://www.intel.com/content/www/us/en/developer/topic-technology/ai-pc/webnn.html)
 
