@@ -42,6 +42,7 @@
 
 ## Articles
 
+- 2025.06 [AI in the Runtime: Why WebNN Changes Everything](https://medium.com/rethinking-the-client-a-new-era-of-modular/ai-in-the-runtime-why-webnn-changes-everything-70494a3cf524) by Enrico Piovesan
 - 2024.12 [How the Web Neural Network API Brings AI Power to Your Browser](https://javascript.plainenglish.io/how-the-web-neural-network-api-brings-ai-power-to-your-browser-8bef925954f8) by Ferid Brković
 - 2024.07 [Web AI Monthly #20: Microsoft / Intel launch WebNN / WebGPU playgrounds](https://www.linkedin.com/pulse/web-ai-monthly-20-collaboration-hugging-face-global-talks-jason-mayes-lwgdc/) by Jason Mayes
 - 2024.03 [Web-Apps smarter machen mit offlinefähigen KI-Modellen, WebGPU und WebNN](https://www.heise.de/blog/Web-Apps-smarter-machen-mit-offlinefaehigen-KI-Modellen-WebGPU-und-WebNN-7520733.html) - by Christian Liebel
