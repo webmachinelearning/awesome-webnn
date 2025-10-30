@@ -14,8 +14,7 @@
 
 ## Try out WebNN
 
-- Go to `about://flags#web-machine-learning-neural-network` and enable the "Enables WebNN API" flag with [Google Chrome Dev](https://www.google.com/chrome/dev/) or [Microsoft Edge Dev](https://www.microsoft.com/edge/download/insider)
-- WebNN Installation Guide from [W3C WebNN Samples](https://github.com/webmachinelearning/webnn-samples/#webnn-installation-guides), [WebNN Developer Preview Demos](https://microsoft.github.io/webnn-developer-preview/install.html) or [Intel AI PC Development](https://www.intel.com/content/www/us/en/developer/topic-technology/ai-pc/webnn.html)
+- [WebNN Installation Guide](https://webnn.io/en/learn/get-started/installation)
 
 ## Contents
 
@@ -23,15 +22,9 @@
 - [Blogs](#blogs)
 - [Browser Support](#browser-support)
 - [Community](#community)
-- [Demos](#demos)
-  - [Demos on CPU or GPU](#demos-on-cpu-or-gpu)
-  - [Demos on NPU](#demos-on-npu)
-  - [Other Demos](#other-demos)
+- [Demos and Samples](#demos)
 - [Frameworks](#frameworks)
 - [Presentations](#presentations)
-- [Samples](#samples)
-  - [Samples on CPU or GPU](#samples-on-cpu-or-gpu)
-  - [Samples on NPU](#samples-on-npu)
 - [Spec](#spec)
 - [Testimonials](#testimonials)
 - [Tutorials](#tutorials)
@@ -61,7 +54,7 @@
 ## Browser Support
 
 - [Implementation Status of WebNN Operations](https://webmachinelearning.github.io/webnn-status/) ([data](https://github.com/webmachinelearning/webmachinelearning.github.io/blob/main/assets/json/webnn_status.json))
-- [WebNN browser support overview](https://caniuse.com/?search=webnn) ([data](https://github.com/mdn/browser-compat-data/pull/22569/files)) - CanIUse.com
+- [WebNN browser support overview](https://caniuse.com/?search=webnn) ([data](https://github.com/mdn/browser-compat-data/pull/28133)) - CanIUse.com
 
 ## Community
 
@@ -70,18 +63,12 @@
 
 ## Demos
 
-### Demos on CPU or GPU
+### Run on CPU, GPU and NPU
 
-- [Image Classification](https://microsoft.github.io/webnn-developer-preview/demos/image-classification/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/image-classification)) - EfficientNet Lite4, MobileNet V2, ResNet50
-- [Segment Anything](https://microsoft.github.io/webnn-developer-preview/demos/segment-anything/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/segment-anything))
-- [Stable Diffusion 1.5](https://microsoft.github.io/webnn-developer-preview/demos/stable-diffusion-1.5/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/stable-diffusion-1.5)) - Text Encoder, UNet, VAE, Safety Checker
-- [Stable Diffusion Turbo](https://microsoft.github.io/webnn-developer-preview/demos/sd-turbo/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/sd-turbo)) - Text Encoder, UNet, VAE, Safety Checker
-- [Whisper Base](https://microsoft.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/whisper-base)) - Audio, recording, and real time Whisper transcription
-
-### Demos on NPU
-
-- [Image Classification](https://microsoft.github.io/webnn-developer-preview/demos/image-classification/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/image-classification)) - EfficientNet Lite4, MobileNet v2, ResNet50 (coming soon)
-- [Whisper Base](https://microsoft.github.io/webnn-developer-preview/demos/whisper-base/) ([source](https://github.com/microsoft/webnn-developer-preview/tree/main/demos/whisper-base)) - Audio, recording, and real time Whisper transcription (coming soon)
+- [WebNN Developer Preview Demos](https://microsoft.github.io/webnn-developer-preview/) ([source](https://github.com/microsoft/webnn-developer-preview/)) based on ONNX Runtime Web
+  - Image Classification, Segment Anything, Stable Diffusion 1.5, Stable Diffusion Turbo, Text Generation, Whisper Base
+- [WebNN Samples](https://webmachinelearning.github.io/webnn-samples-intro/) ([source](https://github.com/webmachinelearning/webnn-samples)) based on pure WebNN API without JavaScript ML frameworks
+- [WebNN Examples](https://huggingface.co/webnn/spaces) based on Transformers.js
 
 ### Other Demos
 
@@ -98,40 +85,17 @@
 - [ONNX Runtime Web](https://onnxruntime.ai/)
   - [WebNN Supported Versions](https://onnxruntime.ai/docs/get-started/with-javascript/web.html#supported-versions)
 - [Transformers.js](https://huggingface.co/docs/transformers.js) by Joshua Lochner
+- [LiteRT.js](https://github.com/google-ai-edge/LiteRT/tree/main/litert/js) by Google, WebNN integration is expected to occur soon.
 - [Web AI Toolkit](https://github.com/jgw96/web-ai-toolkit) by Justin Willis
 
 ## Presentations
 
-- 2024.11 [Privacy-first in-browser Generative AI web apps: offline-ready, future-proof, standards-based](https://www.slideshare.net/slideshow/privacy-first-in-browser-generative-ai-web-apps-offline-ready-future-proof-standards-based/273142915) - by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
+- 2025.10 [Privacy-first in-browser Generative AI web apps: offline-ready, future-proof, standards-based](https://www.slideshare.net/slideshow/privacy-first-in-browser-generative-ai-web-apps-offline-ready-future-proof-standards-based-6688/283867675) - by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
 - 2024.07 [Generative AI power on the web: making web apps smarter with WebGPU and WebNN](https://www.thinktecture.com/contributions/generative-ai-power-on-the-web-making-web-apps-smarter-with-webgpu-and-webnn/) - by Christian Liebel
 - 2024.02 [WebNN: Die AI-Revolution im Browser?](https://basta.net/web-development/webbnn-api-ai-browser/) - by Christian Liebel
 - 2023.11 [第六届 FEDAY: WEBNN, WEB 端侧推理的未来](https://ibelem.github.io/webnn-is-the-future/) - by Belem Zhang
 - 2023.10 [WebNN Implementation on DirectML](https://docs.google.com/presentation/d/1u9efG33BCIp0VdvpXXAu1yJlW10YvNNbnSklwJPBeCM/edit#slide=id.g24dab4effb5_0_0) - BlinkOn 18 - by Chai Chaoweeraprasit, Rafael Cintron, Ningxin Hu
 - 2023.06 [W3C 中国 Web 前沿技术论坛: WebNN Updates](https://ibelem.github.io/webnn-updates/) [PDF / 简体中文](https://www.w3.org/2023/06/china-web-forum/slides/zhang-min.pdf) - by Belem Zhang
-
-## Samples
-
-### Samples on CPU or GPU
-
-- [WebNN Samples](https://webmachinelearning.github.io/webnn-samples-intro/) ([source](https://github.com/webmachinelearning/webnn-samples))
-- [NNotepad - WebNN Playground](https://webmachinelearning.github.io/webnn-samples/nnotepad/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/nnotepad)) - by Joshua Bell
-- [Code Editor](https://webmachinelearning.github.io/webnn-samples/code/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/code))
-- [Face Recognition](https://webmachinelearning.github.io/webnn-samples/face_recognition/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/face_recognition)) - FaceNet, SSD MobileNet V2 Face
-- [Facial Landmark Detection](https://webmachinelearning.github.io/webnn-samples/facial_landmark_detection/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/facial_landmark_detection)) - Face Landmark (SimpleCNN), SSD MobileNet V2 Face
-- [Handwritten Digits Classification](https://webmachinelearning.github.io/webnn-samples/lenet/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/lenet)) - LeNet
-- [Image Classification](https://webmachinelearning.github.io/webnn-samples/image_classification/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/image_classification)) - MobileNet v2, ResNet50 v2, SqueezeNet
-- [Noise Suppression](https://webmachinelearning.github.io/webnn-samples/nsnet2/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/nsnet2)) - NSNet2
-- [Noise Suppression](https://webmachinelearning.github.io/webnn-samples/rnnoise/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/rnnoise)) - RNNoise
-- [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - Tiny Yolo v2, SSD MobileNet v1
-- [Selfie Segmentation](https://webmachinelearning.github.io/webnn-samples/selfie_segmentation/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/selfie_segmentation)) - Selfie Segmentation
-- [Semantic Segmentation](https://webmachinelearning.github.io/webnn-samples/semantic_segmentation/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/semantic_segmentation)) - DeepLab v3
-- [Style Transfer](https://webmachinelearning.github.io/webnn-samples/style_transfer/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/style_transfer)) - Fast Style Transfer
-
-### Samples on NPU
-
-- [Image Classification](https://webmachinelearning.github.io/webnn-samples/image_classification/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/image_classification)) - EfficientNet Lite 4, MobileNet v2, ResNet 50 v1 (coming soon)
-- [Object Detection](https://webmachinelearning.github.io/webnn-samples/object_detection/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/object_detection)) - SSD MobileNet v1
-- [Selfie Segmentation](https://webmachinelearning.github.io/webnn-samples/selfie_segmentation/) ([source](https://github.com/webmachinelearning/webnn-samples/tree/master/selfie_segmentation)) - Selfie Segmentation
 
 ## Spec
 
@@ -196,8 +160,8 @@ Read [more details](https://webnn.io/en/learn/tutorials/webnn/vanillajs) for gen
 
 - [W3C Web Neural Network](https://webnn.dev/)
 - [WebNN Documentation](https://webnn.io/)
-- [WebNN Developer Preview](https://microsoft.github.io/webnn-developer-preview)
-- [WebNN: Intel AI PC Development](https://www.intel.com/content/www/us/en/developer/topic-technology/ai-pc/webnn.html)
+- [WebNN Report](https://webnnreport.org/)
+- [WebNN: Intel AI PC Development](https://www.intel.com/content/www/us/en/developer/topic-technology/ai-pc/overview.html)
 
 ## Bug Reporting
 
