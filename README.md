@@ -65,7 +65,7 @@
 
 ### Run on CPU, GPU and NPU
 
-- [WebNN Developer Preview Demos](https://microsoft.github.io/webnn-developer-preview/demos/image-classification/) ([source](https://github.com/microsoft/webnn-developer-preview/)) based on ONNX Runtime Web
+- [WebNN Developer Preview Demos](https://microsoft.github.io/webnn-developer-preview/) ([source](https://github.com/microsoft/webnn-developer-preview/)) based on ONNX Runtime Web
   - Image Classification, Segment Anything, Stable Diffusion 1.5, Stable Diffusion Turbo, Text Generation, Whisper Base
 - [WebNN Samples](https://webmachinelearning.github.io/webnn-samples-intro/) ([source](https://github.com/webmachinelearning/webnn-samples)) based on pure WebNN API without JavaScript ML frameworks
 - [WebNN Examples](https://huggingface.co/webnn/spaces) based on Transformers.js
