@@ -85,6 +85,7 @@
 - [ONNX Runtime Web](https://onnxruntime.ai/)
   - [WebNN Supported Versions](https://onnxruntime.ai/docs/get-started/with-javascript/web.html#supported-versions)
 - [Transformers.js](https://huggingface.co/docs/transformers.js) by Joshua Lochner
+- [LiteRT.js](https://github.com/google-ai-edge/LiteRT/tree/main/litert/js) by Google, WebNN integration is expected to occur soon.
 - [Web AI Toolkit](https://github.com/jgw96/web-ai-toolkit) by Justin Willis
 
 ## Presentations
