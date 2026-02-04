@@ -136,6 +136,7 @@ Read [more details](https://webnn.io/en/learn/tutorials/webnn/vanillajs) for gen
 
 ## Videos
 
+- 2026.01 [WebNN and WebLLM on RISC-V: Closing the AI Acceleration Gap with RVV and Tenstorrent](https://fosdem.org/2026/schedule/event/E7WQQX-webnn_and_webllm_on_risc-v_closing_the_ai_acceleration_gap_with_rvv_and_tenstorr/) by Yuning Liang and Petr Penzin
 - 2025.11 [Microsoft Ignite: Deploy Local AI Models in Enterprise with Windows ML](https://ignite.microsoft.com/en-US/sessions/BRK329) ([bilibili](https://www.bilibili.com/video/BV1ZeUhBgEmC)) by Andrew Leader and Anastasiya Tarnouskaya
 - 2025.11 [Google Web AI Summit: Web AI leaps forward on Intel AI PCs](https://www.youtube.com/watch?v=xlDMsvqXI1I) ([bilibili](https://www.bilibili.com/video/BV1cDSLBMELt)) by Moh Haghighat
 - 2025.11 [Google Web AI Summit: Wasm, WebGPU, & WebNN: How compute abstraction are enabling client side AI](https://www.youtube.com/watch?v=5CvOjKIpnYk) ([bilibili](https://www.bilibili.com/video/BV1xrSLB5Epq)) by Thomas Nattestad
