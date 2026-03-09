@@ -35,12 +35,15 @@
 
 ## Articles
 
+- 2026.02 [AI in the Browser: WebGPU, WebNN, and Client-Side LLM Applications](https://akgoze.medium.com/ai-in-the-browser-webgpu-webnn-and-client-side-llm-applications-90dd6d0a4dd4) by Fatih Akgöze
+- 2026.01 [The client-side AI stack](https://web.dev/learn/ai/client-side#webnn)
 - 2025.06 [AI in the Runtime: Why WebNN Changes Everything](https://medium.com/rethinking-the-client-a-new-era-of-modular/ai-in-the-runtime-why-webnn-changes-everything-70494a3cf524) by Enrico Piovesan
 - 2024.12 [How the Web Neural Network API Brings AI Power to Your Browser](https://javascript.plainenglish.io/how-the-web-neural-network-api-brings-ai-power-to-your-browser-8bef925954f8) by Ferid Brković
 - 2024.07 [Web AI Monthly #20: Microsoft / Intel launch WebNN / WebGPU playgrounds](https://www.linkedin.com/pulse/web-ai-monthly-20-collaboration-hugging-face-global-talks-jason-mayes-lwgdc/) by Jason Mayes
 
 ## Blogs
 
+- 2026.02 [Running SmolLM-135M in rustnn with flexible inputs](https://blog.ziade.org/2026/02/18/running-smollm-135m-in-rustnn/) by Tarek Ziadé
 - 2025.11 [Web Neural Network API (WebNN): Hardware-Accelerated Machine Learning on the Web](https://blog.sidhartharya.com/posts/webnn-hardware-accelerated-machine-learning-on-the-web/) by Sidharth Arya
 - 2024.12 [WebNN: Bridging the Gap Between AI and the Web](https://www.nsdbytes.com/web-neural-network-api-webnn-bridging-the-gap-between-ai-and-the-web/)
 - 2024.06 [WebNN: Bringing AI Inference to the Browser](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/webnn-bringing-ai-inference-to-the-browser/ba-p/4175003) by Sapna Giddegowda
