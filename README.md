@@ -107,6 +107,7 @@
 ## Tools
 
 - [Onnx2Text](https://github.com/fdwr/Onnx2Text) - Converts an ONNX ML model protobuf from/to text by Dwayne Robinson
+- [Web AI Agent Skills / WebNN](https://github.com/webmaxru/agent-skills/tree/main/skills/webnn) - Agent skill for implementing and debugging browser WebNN integrations in JavaScript or TypeScript web apps by Maxim Salnikov
 - [WebNN Netron](https://ibelem.github.io/netron/) - Show WebNN support status in Chromium for models opened in Netron by Belem Zhang
 
 ### WebNN Model-to-Code Conversion
