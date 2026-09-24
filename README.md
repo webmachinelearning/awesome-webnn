@@ -18,23 +18,37 @@
 
 ## Contents
 
-- [Articles](#articles)
-- [Blogs](#blogs)
-- [Browser Support](#browser-support)
-- [Community](#community)
-- [Demos and Samples](#demos)
-- [Frameworks](#frameworks)
-- [Presentations](#presentations)
-- [Spec](#spec)
-- [Testimonials](#testimonials)
-- [Tutorials](#tutorials)
-  - [ONNX Runtime Web](#onnx-runtime-web)
-  - [WebNN API](#webnn-api)
-- [Videos](#videos)
-- [Websites](#websites)
+- [⚡Awesome WebNN ](#awesome-webnn-)
+  - [WebNN Explained](#webnn-explained)
+  - [Try out WebNN](#try-out-webnn)
+  - [Contents](#contents)
+  - [Articles](#articles)
+  - [Blogs](#blogs)
+  - [Browser Support](#browser-support)
+  - [Community](#community)
+  - [Demos](#demos)
+    - [Run on CPU, GPU and NPU](#run-on-cpu-gpu-and-npu)
+    - [Other Demos](#other-demos)
+  - [Frameworks](#frameworks)
+  - [Presentations](#presentations)
+  - [Spec](#spec)
+  - [Testimonials](#testimonials)
+  - [Tools](#tools)
+    - [WebNN Model-to-Code Conversion](#webnn-model-to-code-conversion)
+    - [WebNN Code-to-Code Translation](#webnn-code-to-code-translation)
+  - [Tutorials](#tutorials)
+    - [ONNX Runtime Web](#onnx-runtime-web)
+    - [WebNN API](#webnn-api)
+  - [Videos](#videos)
+  - [Websites](#websites)
+  - [Bug Reporting](#bug-reporting)
+  - [Source Code](#source-code)
+  - [License](#license)
 
 ## Articles
 
+- 2026.08 [Google Brings LiteRT Inference to the Browser With WebGPU](https://www.webgpu.com/news/google-litert-js-webgpu-browser-ai/)
+- 2026.06 [LiteRT for Web with LiteRT.js](https://developers.google.com/edge/litert/web)
 - 2026.02 [AI in the Browser: WebGPU, WebNN, and Client-Side LLM Applications](https://akgoze.medium.com/ai-in-the-browser-webgpu-webnn-and-client-side-llm-applications-90dd6d0a4dd4) by Fatih Akgöze
 - 2026.01 [The client-side AI stack](https://web.dev/learn/ai/client-side#webnn)
 - 2025.06 [AI in the Runtime: Why WebNN Changes Everything](https://medium.com/rethinking-the-client-a-new-era-of-modular/ai-in-the-runtime-why-webnn-changes-everything-70494a3cf524) by Enrico Piovesan
@@ -43,6 +57,7 @@
 
 ## Blogs
 
+- 2026.07 [LiteRT.js, Google's high performance Web AI Inference](https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/) by Ping Yu, Marko Ristić, Matthew Soulanille and Chintan Parikh
 - 2026.02 [Running SmolLM-135M in rustnn with flexible inputs](https://blog.ziade.org/2026/02/18/running-smollm-135m-in-rustnn/) by Tarek Ziadé
 - 2025.11 [Web Neural Network API (WebNN): Hardware-Accelerated Machine Learning on the Web](https://blog.sidhartharya.com/posts/webnn-hardware-accelerated-machine-learning-on-the-web/) by Sidharth Arya
 - 2024.12 [WebNN: Bridging the Gap Between AI and the Web](https://www.nsdbytes.com/web-neural-network-api-webnn-bridging-the-gap-between-ai-and-the-web/)
@@ -71,6 +86,7 @@
   - Image Classification, Segment Anything, Stable Diffusion 1.5, Stable Diffusion Turbo, Text Generation, Whisper Base
 - [WebNN Samples](https://webmachinelearning.github.io/webnn-samples-intro/) ([source](https://github.com/webmachinelearning/webnn-samples)) based on pure WebNN API without JavaScript ML frameworks
 - [WebNN Examples](https://huggingface.co/webnn/spaces) based on Transformers.js
+- [LiteRT.js on WebNN](https://litert.webnn.io/) based on LiteRT.js
 
 ### Other Demos
 
@@ -86,11 +102,13 @@
 - [ONNX Runtime Web](https://onnxruntime.ai/)
   - [WebNN Supported Versions](https://onnxruntime.ai/docs/get-started/with-javascript/web.html#supported-versions)
 - [Transformers.js](https://huggingface.co/docs/transformers.js) by Joshua Lochner
-- [LiteRT.js](https://github.com/google-ai-edge/LiteRT/tree/main/litert/js) by Google, WebNN integration is expected to occur soon.
+- [LiteRT.js](https://github.com/google-ai-edge/LiteRT/tree/main/litert/js) by Google, WebNN supported
 - [Web AI Toolkit](https://github.com/jgw96/web-ai-toolkit) by Justin Willis
 
 ## Presentations
 
+- 2026.09 [WebNN, Built-in AI, WebMCP: What’s New in Web AI?](https://www.thinktecture.com/contributions/webnn-built-in-ai-webmcp-whats-new-in-web-ai-2/) by Christian Liebel
+- 2026.08 [WebNNでブラウザAIを動かしてみた](https://speakerdeck.com/minmmmin/webnn-de-ai-o-ugokashi-te-mita) by min
 - 2025.10 [Privacy-first in-browser Generative AI web apps: offline-ready, future-proof, standards-based](https://www.slideshare.net/slideshow/privacy-first-in-browser-generative-ai-web-apps-offline-ready-future-proof-standards-based-6688/283867675) by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
 - 2024.07 [Generative AI power on the web: making web apps smarter with WebGPU and WebNN](https://www.thinktecture.com/contributions/generative-ai-power-on-the-web-making-web-apps-smarter-with-webgpu-and-webnn/) by Christian Liebel
 - 2024.02 [WebNN: Die AI-Revolution im Browser?](https://basta.net/web-development/webbnn-api-ai-browser/) by Christian Liebel
@@ -170,6 +188,7 @@ Read [more details](https://webnn.io/en/learn/tutorials/webnn/vanillajs) for gen
 - [WebNN Documentation](https://webnn.io/)
 - [WebNN Report](https://webnnreport.org/)
 - [WebNN: Intel AI PC Development](https://www.intel.com/content/www/us/en/developer/topic-technology/ai-pc/overview.html)
+- [webai.run](https://webai.run/)
 
 ## Bug Reporting
 
