@@ -131,6 +131,7 @@
 ### WebNN Model-to-Code Conversion
 
 - [ONNX2WebNN](https://github.com/huningxin/onnx2webnn) by Ningxin Hu
+- [ONNX → WebNN lowering for RustNN](https://github.com/rustnn/onnx2webnn) by the RustNN project
 - [WebNN Code Generator](https://github.com/ibelem/webnn-code-generator/) by Belem Zhang
 - [WebNN Utilities / OnnxConverter](https://github.com/MicrosoftEdge/WebNNUtils/) by Microsoft Edge team
 
