@@ -132,7 +132,7 @@
 
 - [ONNX2WebNN](https://github.com/huningxin/onnx2webnn) by Ningxin Hu
 - [ONNX → WebNN lowering for RustNN](https://github.com/rustnn/onnx2webnn) by the RustNN project
-- [WebNN Code Generator](https://github.com/ibelem/webnn-code-generator/) by Belem Zhang
+- [Model2WebNN](https://ibelem.github.io/model2webnn/) by Belem Zhang
 - [WebNN Utilities / OnnxConverter](https://github.com/MicrosoftEdge/WebNNUtils/) by Microsoft Edge team
 
 Read [more details](https://webnn.io/en/learn/tutorials/webnn/vanillajs) for generating WebNN Vanilla JavaScript code.
@@ -188,6 +188,7 @@ Read [more details](https://webnn.io/en/learn/tutorials/webnn/vanillajs) for gen
 - [W3C Web Neural Network](https://webnn.dev/)
 - [WebNN Documentation](https://webnn.io/)
 - [WebNN Report](https://webnnreport.org/)
+- [Web AI Bench](https://webai.isainative.dev/)
 - [WebNN: Intel AI PC Development](https://www.intel.com/content/www/us/en/developer/topic-technology/ai-pc/overview.html)
 - [webai.run](https://webai.run/)
 
