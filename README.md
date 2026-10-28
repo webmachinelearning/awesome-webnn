@@ -107,6 +107,7 @@
 
 ## Presentations
 
+- 2026.10 [The Ultimate Guide to Browser-Based AI](https://www.linkedin.com/smart-links/AQFan6lOua46iA/0d5cc6b5-3859-433c-bddc-01a7140d73fc) by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
 - 2026.09 [WebNN, Built-in AI, WebMCP: What’s New in Web AI?](https://www.thinktecture.com/contributions/webnn-built-in-ai-webmcp-whats-new-in-web-ai-2/) by Christian Liebel
 - 2026.08 [WebNNでブラウザAIを動かしてみた](https://speakerdeck.com/minmmmin/webnn-de-ai-o-ugokashi-te-mita) by min
 - 2025.10 [Privacy-first in-browser Generative AI web apps: offline-ready, future-proof, standards-based](https://www.slideshare.net/slideshow/privacy-first-in-browser-generative-ai-web-apps-offline-ready-future-proof-standards-based-6688/283867675) by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
@@ -132,7 +133,7 @@
 
 - [ONNX2WebNN](https://github.com/huningxin/onnx2webnn) by Ningxin Hu
 - [ONNX → WebNN lowering for RustNN](https://github.com/rustnn/onnx2webnn) by the RustNN project
-- [WebNN Code Generator](https://github.com/ibelem/webnn-code-generator/) by Belem Zhang
+- [Model2WebNN](https://ibelem.github.io/model2webnn/) by Belem Zhang
 - [WebNN Utilities / OnnxConverter](https://github.com/MicrosoftEdge/WebNNUtils/) by Microsoft Edge team
 
 Read [more details](https://webnn.io/en/learn/tutorials/webnn/vanillajs) for generating WebNN Vanilla JavaScript code.
@@ -188,6 +189,7 @@ Read [more details](https://webnn.io/en/learn/tutorials/webnn/vanillajs) for gen
 - [W3C Web Neural Network](https://webnn.dev/)
 - [WebNN Documentation](https://webnn.io/)
 - [WebNN Report](https://webnnreport.org/)
+- [Web AI Bench](https://webai.isainative.dev/)
 - [WebNN: Intel AI PC Development](https://www.intel.com/content/www/us/en/developer/topic-technology/ai-pc/overview.html)
 - [webai.run](https://webai.run/)
 
