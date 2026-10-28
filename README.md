@@ -107,6 +107,7 @@
 
 ## Presentations
 
+- 2026.10 [The Ultimate Guide to Browser-Based AI](https://www.linkedin.com/smart-links/AQFan6lOua46iA/0d5cc6b5-3859-433c-bddc-01a7140d73fc) by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
 - 2026.09 [WebNN, Built-in AI, WebMCP: What’s New in Web AI?](https://www.thinktecture.com/contributions/webnn-built-in-ai-webmcp-whats-new-in-web-ai-2/) by Christian Liebel
 - 2026.08 [WebNNでブラウザAIを動かしてみた](https://speakerdeck.com/minmmmin/webnn-de-ai-o-ugokashi-te-mita) by min
 - 2025.10 [Privacy-first in-browser Generative AI web apps: offline-ready, future-proof, standards-based](https://www.slideshare.net/slideshow/privacy-first-in-browser-generative-ai-web-apps-offline-ready-future-proof-standards-based-6688/283867675) by [Maxim Salnikov](https://www.linkedin.com/in/webmax/)
