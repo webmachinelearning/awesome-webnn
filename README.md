@@ -188,7 +188,7 @@ Read [more details](https://webnn.io/en/learn/tutorials/webnn/vanillajs) for gen
 
 - [W3C Web Neural Network](https://webnn.dev/)
 - [WebNN Documentation](https://webnn.io/)
-- [WebNN Report](https://webnnreport.org/)
+- [WebNN Report](https://report.webnn.io/)
 - [Web AI Bench](https://webai.isainative.dev/)
 - [WebNN: Intel AI PC Development](https://www.intel.com/content/www/us/en/developer/topic-technology/ai-pc/overview.html)
 - [webai.run](https://webai.run/)
